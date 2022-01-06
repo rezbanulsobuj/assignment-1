@@ -135,12 +135,12 @@ a{
     
  }
  .shape{
-    background-image: url(mission-2022/images/shapes/dream-bg.png);
+    background-image: url(./images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
  }
  .shape-1{
-     background-image: url(mission-2022/images/shapes/shape-1.png);
+     background-image: url(./images/shapes/shape-1.png);
      background-size: 250px;
      background-repeat: no-repeat;
      background-position:right;
