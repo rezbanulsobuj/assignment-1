@@ -1,0 +1,193 @@
+ *{
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+ }
+ 
+ .header{
+     display: flex;
+ }
+ section{
+     display: flex;
+ }
+ 
+ 
+ h1{
+     font-size: 35px;
+ }
+ 
+ #a{
+    color: yellowgreen;
+    font-size: 40px;
+}
+
+#title{
+    background-color:white;
+    
+    border-left:5px solid violet;
+    padding-left: 10px;
+}
+.container-flex{
+    display: flex;
+}
+span{
+    color: orange;
+}
+
+.half-width img{
+    width: 60%;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+button a{
+    text-decoration: none;
+}
+button a{
+    background-image: linear-gradient( orange,yellow);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
+.border{
+     margin: 40px;
+     width: 25%;
+}
+#text-center{
+    text-align: center;
+}
+.illustration{
+    width: 50%;
+}
+#mission-flex{
+    display: flex;
+    
+}
+.mis{
+    background-color: wheat;
+    margin: 10px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    
+}
+ .vis{
+    background-color:goldenrod;
+    margin: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 5px;
+    
+}
+.vis img{
+    width: 170px;
+}
+.goal img{
+    width: 170px;
+}
+
+.goal{
+    background-color: orchid;
+    margin: 10px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 10px;
+    
+}
+
+     
+
+.half-width{
+    width: 40%;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 10px;
+    color: white;
+    font-weight: 700px;
+    margin-top: 30px;
+    
+ }
+ .full-width{
+     width: 50%;
+     
+ }
+ .full-width img{
+     width: 70%;
+     
+ }
+ #full{
+     margin-left: 100px;
+     margin-top:20px;
+    
+ }
+ #web{
+   
+    padding-top: 70px;
+    margin-right: 1opx;
+    margin-bottom: 20px;
+    
+ }
+ .shape{
+    background-image: url(mission-2022/images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+ }
+ 
+ 
+ #full-1{
+   
+    padding-top: 70px;
+    margin-right: 1opx;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+#web-1{
+    
+    margin-left: 100px;
+    margin-top:200px;
+    margin-right: 30px;
+ }
+ #covid{
+     background-color: darkkhaki;
+     text-align: center;
+     padding: 20px;
+     width: 70%;
+     margin-left: 150px;
+     border-radius: 15px;
+ }
+ .covid-19{
+     background-color: wheat;
+     width: 50%;
+     margin: 100px;
+     margin-left: 300px;
+     text-align: center;
+     padding: 20px;
+     margin-right: 150px;
+     border-radius: 10px;
+     
+    
+ }
+ .click{
+    background-color:lightgreen ;
+    border-radius: 5px;
+    padding:5px 20px;
+
+ }
+ #no{
+    padding:5px 20px;
+    background-color:cyan ;
+    border-radius: 5px;
+ }
+ #footer{
+     background-color: yellowgreen;
+     text-align: center;
+     padding:10px
+     
+ }
+ 
