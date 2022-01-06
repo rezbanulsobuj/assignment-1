@@ -1,6 +1,7 @@
  *{
     font-family: 'Fira Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
+    
  }
  
  .header{
@@ -138,7 +139,13 @@ a{
     background-repeat: no-repeat;
     background-position: left;
  }
- 
+ .shape-1{
+     background-image: url(mission-2022/images/shapes/shape-1.png);
+     background-size: 250px;
+     background-repeat: no-repeat;
+     background-position:right;
+     background-position:top 300px right ;
+ }
  
  #full-1{
    
@@ -160,6 +167,7 @@ a{
      width: 70%;
      margin-left: 150px;
      border-radius: 15px;
+     margin-top: 50px;
  }
  .covid-19{
      background-color: wheat;
@@ -177,7 +185,6 @@ a{
     background-color:lightgreen ;
     border-radius: 5px;
     padding:5px 20px;
-
  }
  #no{
     padding:5px 20px;
@@ -185,7 +192,7 @@ a{
     border-radius: 5px;
  }
  #footer{
-     background-color: yellowgreen;
+     background-color: salmon;
      text-align: center;
      padding:10px
      
